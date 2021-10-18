@@ -4,10 +4,10 @@ This is a learning project
 This is the description of the project 
 
 Things to go through:
-1. General concepts of software development
-2. Tester terminology
-3. Agile process
-4. Azure devops (feature creationg, bug creation, virtual machine concepts, continuous integration build, deploy )
+1. General concepts of software development &#x2611;
+2. Tester terminology &#x2611;
+3. Agile process &#x2611;
+4. Azure devops (feature creationg, bug creation, virtual machine concepts, continuous integration build, deploy ) 
 5. Creating and FA in markdown and describind features (TC + ACC)
 6. Software development tools
 7. Databases 
