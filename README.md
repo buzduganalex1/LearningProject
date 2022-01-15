@@ -1,7 +1,5 @@
 # LearningProject
-This is a learning project 
-
-This is the description of the project 
+This is a learning project used for learning
 
 Take some time to read this:
 https://www.testbytes.net/blog/how-to-improve-your-manual-testing-skills/
