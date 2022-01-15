@@ -15,7 +15,7 @@ https://www.demoblaze.com/index.html
 - Create minimum 5 test cases for those features
 - Create a bug for each test case you identified
 - Automize your test cases for this website using google recorder (If you learn to do this and explain on the interview they will be destroyed because this feature is in the beta release of chrome, most likely they have never heard of this before :D)
-(https://developer.chrome.com/docs/devtools/recorder/)
+(https://www.youtube.com/watch?v=rMUayh1QPYs)
 https://developer.chrome.com/docs/devtools/recorder/
 
 Preparing for the interview
