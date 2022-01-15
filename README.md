@@ -64,7 +64,7 @@ Things to go through:
     - What is metadata used for and give some examples of metadata?
     - What are status codes and give some examples.
 12. Postman
-    - Create 10 automated test in postman for this api https://petstore.swagger.io/ (The same you did for the wantsome course)
+    - Create 10 automated test in postman for this api https://petstore.swagger.io/ (The same you did for the wantsome course) where you test the expected body response is what it should be
 13. Open api description
 14. Web development overawall (Ip, dns, hosting, browser, chrome web dev tools)
     - What is a browser?
