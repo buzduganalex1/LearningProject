@@ -30,7 +30,7 @@ Things to go through:
 3. Agile process &#x2611;
     - What working methodologies are there and explaing about 1 of them (Agille)?
     - What kind of roles are there in an Agile team?
-    - What is an iteratio?
+    - What is an iteration?
     - Name some scrum meetings and say why they are important?
     - What is a story point and why is it important?
 4. Azure devops (feature creationg, bug creation, virtual machine concepts, continuous integration build, deploy ) 
