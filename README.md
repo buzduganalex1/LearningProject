@@ -10,6 +10,7 @@ Use this demo website to improve your testing skills
 https://www.demoblaze.com/index.html
 
 - Identify 3 big features in this website and create the Features in Azure devops for leaning
+- Give SP estimations and set SP for those features
 - Create minimum 3 acceptance criteria for each feature
 - Create minimum 5 test cases for those features
 - Create a bug for each test case you identified
@@ -33,22 +34,50 @@ Things to go through:
     - What is an iteration?
     - Name some scrum meetings and say why they are important?
     - What is a story point and why is it important?
-4. Azure devops (feature creationg, bug creation, virtual machine concepts, continuous integration build, deploy ) 
+4. Azure devops (feature creationg, bug creation, virtual machine concepts, continuous integration build, deploy )
+   - There are too many details here for now, i think is important to use azuere deveops for scrume duty, create US, FT, Bugs, tasks, set SP to US update hours
 5. Creating and FA in markdown and describind features (TC + ACC)
 6. Software development tools
-10. Databases 
-11. SQL queries and explanations
-12. No SQL queries and explanations
-13. Servers, console, windows services, win features
-14. Web services (Api, soap rest, postman testing)
-15. Postman
-16. Open api description
-17. Web development overawall (Ip, dns, hosting, browser, chrome web dev tools)
-18. HTML
-19. CSS
-20. Javascript
-21. General programming concepts +  Automation programming (selenium example)
-
+    - What is an IDE?
+    - What is git?
+    - How do you commit the changes?
+    - What is a branch?
+7. Databases 
+8. SQL queries and explanations
+    - What is a database?
+    - What __types__ of database you know? (https://www.matillion.com/resources/blog/the-types-of-databases-with-examples)
+    - Here is a list of sql questions for interview, there are too many and too advanced (https://www.edureka.co/blog/interview-questions/sql-interview-questions)
+    - You will get something the lines of a SELECT, UPDATE, Index maybe, joins, Primary key, foreign key and how to create a table with 1 to 1 relationship, maybe many to many.     - You can find the answers for those in this document
+9. No SQL queries and explanations
+    - Document databases like RavenDB (https://www.onlineinterviewquestions.com/nosql-interview-questions/) come    talk with me after reading the questions in this document
+10. Servers, console, windows services, win features
+    - What is a server?
+    - What is a console?
+    - Name some commands you can use in console?
+    - What is a service?
+    - What is an api?
+11. Web services (Api, soap rest, postman testing)
+    - What is an Api?
+    - What is REST?
+    - What is HTTP? https://www.guru99.com/rest-api-interview-question-answers.html
+    - What is the structure of an HTTP message?
+    - Name some http verbs and what they do?
+    - What is metadata used for and give some examples of metadata?
+    - What are status codes and give some examples.
+12. Postman
+    - Create 10 automated test in postman for this api https://petstore.swagger.io/ (The same you did for the wantsome course)
+13. Open api description
+14. Web development overawall (Ip, dns, hosting, browser, chrome web dev tools)
+    - What is a browser?
+    - What is an IP?
+    - What is a domain?
+    - What is DNS?
+    - What is an webappllication?
+    - How do you do automation for an web application?
+15. HTML
+16. CSS
+17. Javascript
+18. General programming concepts +  Automation programming (selenium example)
 
 ## Examples of interview questions
 
