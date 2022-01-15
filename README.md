@@ -27,7 +27,6 @@ Things to go through:
     - What is a test case?
     - Give an example of how would you create a bug (with steps, give an example of the title)
     - Go over this list mark the words you already know and choose some you don't know for clarification (https://reqtest.com/blog/glossary-of-testing-terms/)
-    - 
 3. Agile process &#x2611;
     - What working methodologies are there and explaing about 1 of them (Agille)?
     - What kind of roles are there in an Agile team?
