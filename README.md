@@ -80,6 +80,8 @@ Things to go through:
 
 ## Examples of interview questions
 
-https://www.guru99.com/qa-interview-questions-answers.html
-https://www.parasoft.com/blog/top-75-qa-interview-questions-answers-with-examples/
-https://theqalead.com/topics/qa-interview-questions/
+- https://www.guru99.com/qa-interview-questions-answers.html
+
+- https://www.parasoft.com/blog/top-75-qa-interview-questions-answers-with-examples/
+
+- https://theqalead.com/topics/qa-interview-questions/
